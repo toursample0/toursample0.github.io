@@ -774,7 +774,7 @@
       align="center"
       width="500"
       height="500"
-      y="0"
+      y="50"
       scale="0.4"
       enabled="false"
     />
@@ -788,7 +788,7 @@
           padding="8"
           align="bottom" 
           x="0" 
-          y="-100"
+          y="-120"
           bgcolor="0xFFFFFF"
           enabled="false"
           zorder="9999"
