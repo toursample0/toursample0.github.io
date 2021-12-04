@@ -774,7 +774,7 @@
       align="center"
       width="500"
       height="500"
-      y="50"
+      y="0"
       scale="0.4"
       enabled="false"
     />
